@@ -2,5 +2,5 @@ h1{
     background-color: black;
     color: aqua;
     text-align: center;
-    
+    background-image: -moz-radial-gradient(black);
 }
